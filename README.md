@@ -89,6 +89,7 @@ Societies with greater autonomy, voice, and choice tend to experience higher lif
 6. Develop Region-Focused Strategies
 
 Regions with consistently low scores,such as Sub-Saharan Africa—may require:
+	
 	•	Broader development support
 	
 	•	Conflict reduction programs
