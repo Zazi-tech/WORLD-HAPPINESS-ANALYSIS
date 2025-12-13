@@ -1,4 +1,4 @@
-# WORLD-HAPPINESS-ANALYSIS
+# WORLD-HAPPINESS-ANALYSIS REPORT
 This dataset is a multi-year compilation of the World Happiness Report, providing country-level happiness scores and the key economic, social, and societal indicators that influence well-being.
 
 ## Table of Contents
