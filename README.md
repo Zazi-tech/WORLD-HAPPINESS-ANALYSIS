@@ -8,7 +8,8 @@ This dataset is a multi-year compilation of the World Happiness Report, providin
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Conclusions](#conclusions)
-
+- [Tools And Technologies Used](#tools-and-technologies-used)
+  
 ## Executive Summary
 The World Happiness dataset provides a comprehensive multi-year view of global well-being, drawing on economic, social, and societal indicators to rank countries by their overall happiness score. The analysis reveals strong regional disparities, with wealthier and socially cohesive regions consistently reporting higher happiness levels. Key determinants such as GDP per Capita, Social Support, and Healthy Life Expectancy emerge as the strongest contributors to happiness, while Perceptions of Corruption and Generosity show more variable impacts.
 
